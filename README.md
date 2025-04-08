@@ -12,7 +12,7 @@ Finance Manager — это программа для учета личных ф�
 ### Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/zazhralcya/Finance-Manager.git
+   git clone [https://github.com/zazhralcya/Finance-Manager.git](https://github.com/zazcharlcya/Finance_Manager)
    cd Finance-Manager
    
 2. Установите необходимые зависимости:
