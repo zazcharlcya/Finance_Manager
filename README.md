@@ -1,2 +1,43 @@
-# Finance_Manager
-Finance Manager is a personal finance accounting program that allows users to enter income and expenses, keep records and view statistics for selected periods. The program helps to control financial status and analyze expenses.
+# Finance Manager
+
+## Описание проекта
+Finance Manager — это программа для учета личных финансов, которая позволяет пользователям вводить доходы и расходы, вести учет и просматривать статистику за выбранные периоды. Программа помогает контролировать финансовое состояние и анализировать расходы.
+
+## Установка и запуск проекта
+
+### Необходимые зависимости
+Для запуска проекта вам понадобятся:
+- Python 3.8 или выше
+- Библиотеки: `pandas`,# Finance Mana
+### Установка
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/zazhralcya/Finance-Manager.git
+   cd Finance-Manager
+   
+2. Установите необходимые зависимости:
+     pip install -r requirements.txt
+   
+### Запуск
+Для запуска программы выполните:Finance_Manager.py
+
+## Использование
+После запуска программы вы сможете:
+- Добавлять доходы и расходы через консольный интерфейс.
+- Просматривать текущий баланс.
+- Анализировать статистику за выбранный период (день, неделя, месяц).
+- Использовать категории для доходов и расходов.
+- Строить графики для визуализации финансов.
+- Настраивать напоминания о крупных платежах.
+
+## Лицензия
+Этот проект распространяется под лицензией GNU GPLv3. Подробнее см. в файле [LICENSE](LICENSE).
+
+## Создание Pull Request
+Мы приветствуем ваши вклады в проект! Если вы хотите внести свой вклад:
+1. Форкните репозиторий.
+2. Создайте новую ветку (`git checkout -b feature/AmazingFeature`).
+3. Сделайте свои изменения и закомитьте их (`git commit -m 'Add some AmazingFeature'`).
+4. Запушите ветку (`git push origin feature/AmazingFeature`).
+5. Откройте Pull Request.
+`
